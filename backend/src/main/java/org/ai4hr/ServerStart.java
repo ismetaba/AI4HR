@@ -1,4 +1,4 @@
-package org.ai4hr.ai4hr;
+package org.ai4hr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
